@@ -2,7 +2,8 @@
 
 This project is a simple **Profile Card** implemented using HTML and styled via CSS. It is a great starting point for learning about web development basics, including structuring content and applying styles for an aesthetically pleasing design.
 
-![image](https://github.com/user-attachments/assets/20d17f9e-ef2e-4c7b-8e3a-81ae085c9b7e)
+![image](https://github.com/user-attachments/assets/ebda3bca-2c80-47d3-898c-13a58a29686a)
+
 
 
 
